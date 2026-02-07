@@ -1,0 +1,14 @@
+body {
+  font-family: Arial;
+  width: 250px;
+  padding: 10px;
+}
+
+h2 {
+  text-align: center;
+}
+
+li {
+  font-size: 14px;
+  margin: 5px 0;
+}
